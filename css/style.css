@@ -1,12 +1,12 @@
-p { color: rgb(255, 187, 0);}
-table {border-color: rgb(255, 187, 0);}
-h1 { color: rgb(255, 187, 0);}
-h3 { color: rgb(255, 187, 0);}
-h2 { color: rgb(255, 187, 0);}
-h4 { color: rgb(255, 187, 0);}
-a {color: rgb(255, 187, 0)}
+p { color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
+table {border-color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
+h1 { color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
+h3 { color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
+h2 { color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
+h4 { color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
+a {color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
 body {background-color: indigo;}
-th { color: rgb(255, 187, 0);}
+th { color: rgb(255, 187, 0); font-family: 'Roboto Mono', monospace;}
 input {border-style: none; border-bottom-style: solid; border-width:thin;}
     
 div {border:solid thin black; margin: 0.5em; padding: 0.5em; border-radius: 1em; background: #f7f7f7;}
